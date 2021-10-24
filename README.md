@@ -1,5 +1,24 @@
 # Disaster Response Pipeline Project
 
+## Motivation
+
+## Results
+
+## This project was created with the following environment:
+- python 3.8.10
+- pandas 1.2.4
+- scikit-learn 0.24.2
+- sqlalchemy 1.4.22
+- sqlite 3.35.4
+- nltk 3.6.5
+- plotly 5.1.0
+- flask 1.1.2
+- joblib 1.0.1
+
+
+## Files & Data
+    
+
 ### Instructions:
 1. Run the following commands in the project's root directory to set up your database and model.
 
@@ -11,4 +30,4 @@
 2. Run the following command in the app's directory to run your web app.
     `python run.py`
 
-3. Go to http://0.0.0.0:3001/
+3. Go to http://localhost:3001/
